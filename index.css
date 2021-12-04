@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+
 *{
 	margin: 0;
 	padding: 0;
@@ -14,7 +16,7 @@ a{
 	text-decoration: none;
 }
 .card{
-	width: 317px;
+	width: 370px;
 	border-radius: 8px;
 	margin: 15px auto;
 	overflow: hidden;
@@ -25,18 +27,26 @@ a{
 	
 
 }
+
 .card-top{
 	text-align: center;
 }
 .p-light{
 	color: #F5F5F5;
+	font-size: 1rem;
 }
 .bold{
 	font-weight: 800;
 	font-size: 1.7rem;
+	font-family: 'Inter', sans-serif;
+	color: #FFFFFD;
+}
+.email{
+	font-size: 1rem;
 }
 .card-title{
 	color: #F3BF99;
+	font-size: 1.2rem;
 }
 .card-top p{
 	padding-top: .3em;
@@ -46,19 +56,29 @@ a{
 .card-btn{
 	display: flex;
 	justify-content: space-evenly;
+	margin-top: 10px;
+
 
 }
 .btn-light{
-	padding: .6em 1.1em;
+	padding: .6em .9em;
 	background-color: #FFFFFD;
 	color: gray;
 	font-weight: 700;
+	border-radius: 3px;
+	font-family: 'Inter', sans-serif;
+	
+
+	
 }
 .btn-blue{
-	padding: .6em 1.1em;
+	padding: .6em .9em;
 	background-color: #5093E2;
 	color: white;
 	font-weight: 700;
+	border-radius: 3px;
+	font-family: 'Inter', sans-serif;
+	
 }
 .card-btn img{
 	width: 20px;
@@ -76,5 +96,9 @@ a{
 	line-height: 1.2;
 }
 .card-footer{
-	text-align: center;
+	display: flex;
+	justify-content: space-evenly;
+	color: white;
+	font-size: 25px;
+	margin-top: 0;
 }
