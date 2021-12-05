@@ -1,5 +1,5 @@
 import React from 'react';
-import pic from './pic.jpeg';
+import pic from '../pic.jpeg';
 
 
 export default function CardTop(){
