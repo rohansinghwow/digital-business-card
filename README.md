@@ -4,7 +4,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Alt text](https://siasky.net/rACXJOtx6UtbcW0SCqNs1PzqdH77thPn6AV-Z2Ed5iZAvAgit?raw=true "Project Demo ")
+![Alt text](https://siasky.net/rACXJOtx6UtbcW0SCqNs1PzqdH77thPn6AV-Z2Ed5iZAvA?raw=true "Project Demo ")
 
 ## Available Scripts
 
