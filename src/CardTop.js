@@ -1,5 +1,5 @@
 import React from 'react';
-import pic from './images/pic.jpeg';
+import pic from './pic.jpeg';
 
 
 export default function CardTop(){
@@ -11,7 +11,7 @@ export default function CardTop(){
 				
 				<p className="card-name bold p-light">Mr. Lion </p>
 				<p className="card-title">Jungle Developer</p>
-				<p className="email p-light">lions. website</p>
+				<p className="email p-light">lions.website</p>
 
 		</div>
 

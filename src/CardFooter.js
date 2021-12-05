@@ -8,9 +8,9 @@ export default function CardFooter(){
 				<a href=""><i className="fa fa-twitter"></i></a>
 				<a href=""><i className="fa fa-facebook"></i></a>
 				<a href=""><i className="fa fa-youtube"></i></a>
-				<a href=""><i className="fa fa-github"></i></i></a>
+				<a href=""><i className="fa fa-github"></i></a>
 				
-			</div>
+		</div>
 
 		)
 
